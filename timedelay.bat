@@ -11,3 +11,4 @@ if "%waitminutes%" == "" (
 ) else (
 	timeout %waitminutes%
 )
+goto :eof
